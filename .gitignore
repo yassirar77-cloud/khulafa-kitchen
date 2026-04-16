@@ -1,0 +1,7 @@
+# These are standalone apps with their own .git repos that push to separate GitHub remotes:
+#   khulafa-kitchen-app       -> yassirar77-cloud/khulafa-kitchen (already pushed)
+#   khulafa-cashier-app       -> yassirar77-cloud/khulafa-cashier  (pending auth)
+#   khulafa-owner-dashboard   -> yassirar77-cloud/khulafa-owner    (pending auth)
+khulafa-kitchen-app/
+khulafa-cashier-app/
+khulafa-owner-dashboard/
